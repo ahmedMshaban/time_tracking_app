@@ -13,7 +13,7 @@ npm install
 3. Boot the HTTP server
 
 ````
-npm start
+npm run server
 ````
 
 The server is now running at [localhost:3000](localhost:3000)
